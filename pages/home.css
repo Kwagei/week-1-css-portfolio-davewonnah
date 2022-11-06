@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top{
+    background-color: rgb(255, 136, 0);
+    height: 150px;
+    /* width: 300px; */
+}
+.top a{
+    float: right;
+    text-decoration: solid;
+    text-indent: 20px;
+    /* text-decoration: ; */
+    margin-top: 40px;
+}
+.top h1{
+    padding-top: 30px;
+}
+.img{
+    background-color: black;
+    padding-top: 20px;
+    /* margin-right: 10px; */
+    /* height: 100%; */
+}
+.username{
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.me{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.img img{
+    border-radius: 35px;
+    
+}
+.hobb{
+    background-color: black;
+    font-size: large;
+    color: aliceblue;
+}
